@@ -5,6 +5,8 @@
     --branco: #ffff;
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
+    --amarelo:#FECD2F;
+    --roxo:#f72ffe;
 }
 body{
     background-color: var(--cor-de-fundo);
